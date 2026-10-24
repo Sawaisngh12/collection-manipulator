@@ -37,6 +37,11 @@ python student_organizer.py
 - Using loops and conditional statements.
 - Performing CRUD operations (Create, Read, Update, Delete).
 
+
+
+https://drive.google.com/file/d/14EPRyEtcdxSLHngz0hm7oeawYR0tR0Ga/view?usp=sharing
+
+
 ## 👨‍💻 Conclusion
 This project provides a simple way to organize student records and practice basic Python programming concepts.
 # collection-manipulator
